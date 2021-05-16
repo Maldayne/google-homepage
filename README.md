@@ -1,0 +1,1 @@
+Creating my first ODIN Project which is to recreate the google homepage
